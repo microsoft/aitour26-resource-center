@@ -62,7 +62,7 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 ### Lightning talks
 
-* LTG155 - Fast Data Transformation with Onelake Shortcut Transforms and Data Wrangler](https://github.com/microsoft/aitour26-LTG155-fast-data-transformation-with-onelake-shortcut-transforms-and-data-wrangler)
+* [LTG155 - Fast Data Transformation with Onelake Shortcut Transforms and Data Wrangler](https://github.com/microsoft/aitour26-LTG155-fast-data-transformation-with-onelake-shortcut-transforms-and-data-wrangler)
 * [LTG156 - Build AI Agents That Actually Know Your Data with Fabric and Foundry](https://github.com/microsoft/aitour26-LTG156-build-ai-agents-that-actually-know-your-data-with-fabric-and-foundry)
 * [LTG157 - Build Data Agents Fast: Low-Code to Pro-Code in Microsoft Fabric](https://github.com/microsoft/aitour26-LTG157-build-data-agents-fast-low-code-to-pro-code-in-microsoft-fabric)
 * [LTG158 - Level up as a data expert with AI-ready databases and tools](https://github.com/microsoft/aitour26-LTG158-level-up-as-a-data-expert-with-ai-ready-databases-and-tools)
