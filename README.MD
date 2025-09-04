@@ -13,7 +13,7 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 ## AI Business Solutions - Copilot and agents at work
 
-* [BRK422 - Deploy and manage agents securely at scale with the Copilot Control System​](https://github.com/microsoft/aitour26-BRK422-build-and-deploy-agents-securely-at-scale-with-the-copilot-control-system/)
+* [BRK422 - Deploy and manage agents securely at scale with the Copilot Control System​](https://github.com/microsoft/aitour26-BRK422-deploy-and-manage-agents-securely-at-scale-with-the-copilot-control-system/)
 
 
 ## AI Business Solutions - Innovate with Low Code AI and Agents
@@ -26,7 +26,7 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 ### Breakout sessions
 
-* [BRK441 - Build & Launch LLM Apps Fast with GitHub Models + Azure AI Foundry](https://github.com/microsoft/aitour26-BRK441-build-and-launch-llm-apps-fast-with-github-models-and-azure-ai-foundry/settings)
+* [BRK441 - Build & Launch LLM Apps Fast with GitHub Models + Azure AI Foundry](https://github.com/microsoft/aitour26-BRK441-build-and-launch-llm-apps-fast-with-github-models-and-azure-ai-foundry)
 * [BRK442 - The Agent Awakens: Collaborative Development with GitHub Copilot](https://github.com/microsoft/aitour26-BRK442-the-agent-awakens-collaborative-development-with-github-copilot)
 * [BRK443 - The Best Way to Make Your Customized Models Smarter Without More Data](https://github.com/microsoft/aitour26-BRK443-the-best-way-to-make-your-customized-models-smarter-without-more-data)
 * [BRK444 - The future of AI Agents starts with search](https://github.com/microsoft/aitour26-BRK444-the-future-of-ai-agents-starts-with-search)
@@ -56,14 +56,14 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 ### Breakout sessions
 
-* [BRK461 - Whats new in Microsoft databases: empowering ai-driven app dev](https://github.com/microsoft/aitour26-whats-new-in-microsoft-databases-empowering-ai-driven-app-dev/)
+* [BRK461 - What's new in Microsoft databases: empowering ai-driven app dev](https://github.com/microsoft/aitour26-whats-new-in-microsoft-databases-empowering-ai-driven-app-dev/)
 
 * [BRK462 - Enable agentic AI apps with a unified data estate in Microsoft Fabric](https://github.com/microsoft/aitour26-enable-agentic-ai-apps-with-a-unified-data-estate-in-microsoft-fabric/)
 
 
 ### Workshops
 
-* [WRK570 - Enhancing Operations for AI Apps with Azure Copilot and GitHub Copilot](https://github.com/microsoft/aitour26-enhancing-operations-for-ai-apps-with-azure-copilot-and-github-copilot/)
+* [WRK560 - Modernize your data estate MS Fabric, Azure Databricks, and AI Foundry](https://github.com/microsoft/aitour26-WRK560-modernize-your-data-estate-ms-fabric-azure-databricks-and-ai-foundry)
 
 
 
@@ -84,7 +84,7 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 ### Workshops
 
-* [WRK570 - Enhancing Operations for AI Apps with Azure Copilot and GitHub Copilot](https://github.com/microsoft/aitour26-enhancing-operations-for-ai-apps-with-azure-copilot-and-github-copilot/)
+* [WRK570 - Enhancing Operations for AI Apps with Azure Copilot and GitHub Copilot](https://github.com/microsoft/aitour26-WRK570-improving-ops-with-copilot-in-azure-and-github-copilot)
 
 
 
