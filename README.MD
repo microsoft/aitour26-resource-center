@@ -15,14 +15,23 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 ### Copilot and agents at work
 
-* [BRK422 - Deploy and manage agents securely at scale with the Copilot Control System​](https://github.com/microsoft/aitour26-BRK422-deploy-and-manage-agents-securely-at-scale-with-the-copilot-control-system/)
+#### Breakout sessions
 
+* [BRK422 - Deploy and manage agents securely at scale with the Copilot Control System​](https://aka.ms/BRK422GHrepo)
+
+#### Workshops
+
+* [WRK523 - Data, Security, and Compliance Practices for Copilot](https://aka.ms/WRK523GHrepo)
 
 ### Innovate with Low Code AI and Agents
 
-* [BRK431 - Advanced Agent Development with Copilot Studio](https://github.com/microsoft/aitour26-BRK431-advanced-agent-development-with-copilot-studio/)
+#### Breakout sessions
 
+* [BRK431 - Advanced Agent Development with Copilot Studio](https://aka.ms/BRK431GHrepo)
 
+#### Workshops
+
+* [WRK532 - Building Agents with Copilot Studio](https://aka.ms/WRK532GHrepo)
 
 ## Cloud and AI Platforms 
 
@@ -30,27 +39,27 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 #### Breakout sessions
 
-* [BRK441 - Build & Launch LLM Apps Fast with GitHub Models + Azure AI Foundry](https://github.com/microsoft/aitour26-BRK441-build-and-launch-llm-apps-fast-with-github-models-and-azure-ai-foundry)
-* [BRK442 - The Agent Awakens: Collaborative Development with GitHub Copilot](https://github.com/microsoft/aitour26-BRK442-the-agent-awakens-collaborative-development-with-github-copilot)
-* [BRK443 - The Best Way to Make Your Customized Models Smarter Without More Data](https://github.com/microsoft/aitour26-BRK443-the-best-way-to-make-your-customized-models-smarter-without-more-data)
-* [BRK444 - The future of AI Agents starts with search](https://github.com/microsoft/aitour26-BRK444-the-future-of-ai-agents-starts-with-search)
-* [BRK445 - Azure AI Foundry Agent Service: Transforming workflows with Azure AI Foundry](https://github.com/microsoft/aitour26-BRK445-azure-ai-foundry-agent-service-transforming-workflows-with-azure-ai-foundry)
-* [BRK447 - Agentic use of GitHub Copilot within Visual Studio](https://github.com/microsoft/aitour26-BRK447-agentic-use-of-github-copilot-within-visual-studio)
-* [BRK448 - Building Agentic AI on Windows with MCP and VS Code's agent mode](https://github.com/microsoft/aitour26-BRK448-building-agentic-ai-on-windows-with-mcp-and-vs-codes-agent-mode/)
+* [BRK441 - Build & Launch LLM Apps Fast with GitHub Models + Azure AI Foundry](https://aka.ms/BRK441GHrepo)
+* [BRK442 - The Agent Awakens: Collaborative Development with GitHub Copilot](https://aka.ms/BRK442GHrepo)
+* [BRK443 - The Best Way to Make Your Customized Models Smarter Without More Data](https://aka.ms/BRK443GHrepo)
+* [BRK444 - The future of AI Agents starts with search](https://aka.ms/BRK444GHrepo)
+* [BRK445 - Azure AI Foundry Agent Service: Transforming workflows with Azure AI Foundry](https://aka.ms/BRK445GHrepo)
+* [BRK447 - Agentic use of GitHub Copilot within Visual Studio](https://aka.ms/BRK446GHrepo)
+* [BRK448 - Building Agentic AI on Windows with MCP and VS Code's agent mode](https://aka.ms/BRK447GHrepo)
 
 
 #### Lightning talks
 
-* [LGT150 - New open-source framework for next-gen multi-agent solutions](https://github.com/microsoft/aitour26-LTG150-new-open-source-framework-for-next-gen-multi-agent-solutions)
-* [LTG151 - Build trustworthy AI with systematic evaluations in Azure AI Foundry](https://github.com/microsoft/aitour26-LTG151-build-trustworthy-ai-with-systematic-evaluations-in-azure-ai-foundry/)
-* [LTG152 - From protocol to practice: build and use your first MCP server](https://github.com/microsoft/aitour26-LTG152-from-protocol-to-practice-build-and-use-your-first-mcp-server/)
-* [LTG153 - Automate model selection and AI app design with Azure AI Foundry](https://github.com/microsoft/aitour26-LTG153-automate-model-selection-and-ai-app-design-with-azure-ai-foundry/)
-* [LTG154 - Breaking Down the AI Tour Advisor Agent](https://github.com/microsoft/aitour26-LTG154-breaking-down-the-ai-tour-advisor-agent/)
+* [LGT150 - New open-source framework for next-gen multi-agent solutions](https://aka.ms/LTG150GHrepo)
+* [LTG151 - Build trustworthy AI with systematic evaluations in Azure AI Foundry](https://aka.ms/LTG151GHrepo)
+* [LTG152 - From protocol to practice: build and use your first MCP server](https://aka.ms/LTG152GHrepo)
+* [LTG153 - Automate model selection and AI app design with Azure AI Foundry](https://aka.ms/LTG153GHrepo)
+* [LTG154 - Breaking Down the AI Tour Advisor Agent](https://aka.ms/LTG154GHrepo)
 
 #### Workshops
 
-* [WRK540 - Unlock Your Agents' Potential with Model Context Protocol and PostgreSQL](https://github.com/microsoft/aitour26-WRK540-unlock-your-agents-potential-with-model-context-protocol)
-* [WRK541 - Real world code migration with GitHub Copilot Agent Mode](https://github.com/microsoft/aitour26-WRK541-real-world-code-migration-with-github-copilot-agent-mode)
+* [WRK540 - Unlock Your Agents' Potential with Model Context Protocol and PostgreSQL](https://aka.ms/WRK540GHrepo)
+* [WRK541 - Real world code migration with GitHub Copilot Agent Mode](https://aka.ms/WRK541GHrepo)
 
 ## Cloud and AI Platforms 
 
@@ -58,19 +67,19 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 #### Breakout sessions
 
-* [BRK461 - What's new in Microsoft databases: empowering ai-driven app dev](https://github.com/microsoft/aitour26-whats-new-in-microsoft-databases-empowering-ai-driven-app-dev/)
-* [BRK462 - Enable agentic AI apps with a unified data estate in Microsoft Fabric](https://github.com/microsoft/aitour26-enable-agentic-ai-apps-with-a-unified-data-estate-in-microsoft-fabric/)
+* [BRK461 - What's new in Microsoft databases: empowering ai-driven app dev](https://aka.ms/BRK461GHrepo)
+* [BRK462 - Enable agentic AI apps with a unified data estate in Microsoft Fabric](https://aka.ms/BRK462GHrepo)
 
 #### Workshops
 
-* [WRK560 - Modernize your data estate MS Fabric, Azure Databricks, and AI Foundry](https://github.com/microsoft/aitour26-WRK560-modernize-your-data-estate-ms-fabric-azure-databricks-and-ai-foundry)
+* [WRK560 - Modernize your data estate MS Fabric, Azure Databricks, and AI Foundry](https://aka.ms/WRK560GHrepo)
 
 #### Lightning talks
 
-* [LTG155 - Fast Data Transformation with Onelake Shortcut Transforms and Data Wrangler](https://github.com/microsoft/aitour26-LTG155-fast-data-transformation-with-onelake-shortcut-transforms-and-data-wrangler)
-* [LTG156 - Build AI Agents That Actually Know Your Data with Fabric and Foundry](https://github.com/microsoft/aitour26-LTG156-build-ai-agents-that-actually-know-your-data-with-fabric-and-foundry)
-* [LTG157 - Build Data Agents Fast: Low-Code to Pro-Code in Microsoft Fabric](https://github.com/microsoft/aitour26-LTG157-build-data-agents-fast-low-code-to-pro-code-in-microsoft-fabric)
-* [LTG158 - Level up as a data expert with AI-ready databases and tools](https://github.com/microsoft/aitour26-LTG158-level-up-as-a-data-expert-with-ai-ready-databases-and-tools)
+* [LTG155 - Fast Data Transformation with Onelake Shortcut Transforms and Data Wrangler](https://aka.ms/LTG155GHrepo)
+* [LTG156 - Build AI Agents That Actually Know Your Data with Fabric and Foundry](https://aka.ms/LTG156GHrepo)
+* [LTG157 - Build Data Agents Fast: Low-Code to Pro-Code in Microsoft Fabric](https://aka.ms/LTG157GHrepo)
+* [LTG158 - Level up as a data expert with AI-ready databases and tools](https://aka.ms/LTG158GHrepo)
 
 ## Cloud and AI Platforms
 
@@ -78,13 +87,11 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 #### Breakout Sessions
 
-* [BRK471 - AI for Infrastructure Management](https://github.com/microsoft/aitour26-ai-for-infrastructure-management/)
+* [BRK471 - AI for Infrastructure Management](https://aka.ms/BRK471GHrepo)
 
 #### Workshops
 
-* [WRK570 - Enhancing Operations for AI Apps with Azure Copilot and GitHub Copilot](https://github.com/microsoft/aitour26-WRK570-improving-ops-with-copilot-in-azure-and-github-copilot)
-
-
+* [WRK570 - Enhancing Operations for AI Apps with Azure Copilot and GitHub Copilot](https://aka.ms/WRK570GHrepo)
 
 ## Security 
 
@@ -92,8 +99,8 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 #### Breakout Sessions
 
-* [BRK481 - Securing AI Applications on Azure](https://github.com/microsoft/aitour26-BRK481-securing-ai-applications-on-azure)
-* [BRK482 - Secure and scale your AI APIs with Azure API Management](https://github.com/microsoft/aitour26-secure-and-scale-your-ai-apis-with-azure-api-management)
+* [BRK481 - Securing AI Applications on Azure](https://aka.ms/BRK481GHrepo)
+* [BRK482 - Secure and scale your AI APIs with Azure API Management](https://aka.ms/BRK482GHrepo)
 
 
 
