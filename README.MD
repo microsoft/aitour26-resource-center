@@ -44,8 +44,8 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 * [BRK443 - The Best Way to Make Your Customized Models Smarter Without More Data](https://aka.ms/BRK443GHrepo)
 * [BRK444 - The future of AI Agents starts with search](https://aka.ms/BRK444GHrepo)
 * [BRK445 - Azure AI Foundry Agent Service: Transforming workflows with Azure AI Foundry](https://aka.ms/BRK445GHrepo)
-* [BRK447 - Agentic use of GitHub Copilot within Visual Studio](https://aka.ms/BRK446GHrepo)
-* [BRK448 - Building Agentic AI on Windows with MCP and VS Code's agent mode](https://aka.ms/BRK447GHrepo)
+* [BRK447 - Agentic use of GitHub Copilot within Visual Studio](https://aka.ms/BRK447GHrepo)
+* [BRK448 - Building Agentic AI on Windows with MCP and VS Code's agent mode](https://aka.ms/BRK448GHrepo)
 
 
 #### Lightning talks
