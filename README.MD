@@ -61,8 +61,6 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 * [WRK540 - Unlock Your Agents' Potential with Model Context Protocol and PostgreSQL](https://aka.ms/WRK540GHrepo)
 * [WRK541 - Real world code migration with GitHub Copilot Agent Mode](https://aka.ms/WRK541GHrepo)
 
-## Cloud and AI Platforms 
-
 ### Unify Your Data Platform 
 
 #### Breakout sessions
@@ -81,8 +79,6 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 * [LTG157 - Build Data Agents Fast: Low-Code to Pro-Code in Microsoft Fabric](https://aka.ms/LTG157GHrepo)
 * [LTG158 - Level up as a data expert with AI-ready databases and tools](https://aka.ms/LTG158GHrepo)
 
-## Cloud and AI Platforms
-
 ### Migrate and Modernize Your Estate
 
 #### Breakout Sessions
@@ -94,8 +90,6 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 * [WRK570 - Enhancing Operations for AI Apps with Azure Copilot and GitHub Copilot](https://aka.ms/WRK570GHrepo)
 
 ## Security 
-
-### Security
 
 #### Breakout Sessions
 
