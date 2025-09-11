@@ -45,15 +45,11 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 * [BRK444 - The future of AI Agents starts with search](https://aka.ms/BRK444GHrepo)
 * [BRK445 - Azure AI Foundry Agent Service: Transforming workflows with Azure AI Foundry](https://aka.ms/BRK445GHrepo)
 * [BRK447 - Agentic use of GitHub Copilot within Visual Studio](https://aka.ms/BRK447GHrepo)
-* [BRK448 - Building Agentic AI on Windows with MCP and VS Code's agent mode](https://aka.ms/BRK448GHrepo)
-
 
 #### Lightning talks
 
-* [LGT150 - New open-source framework for next-gen multi-agent solutions](https://aka.ms/LTG150GHrepo)
 * [LTG151 - Build trustworthy AI with systematic evaluations in Azure AI Foundry](https://aka.ms/LTG151GHrepo)
 * [LTG152 - From protocol to practice: build and use your first MCP server](https://aka.ms/LTG152GHrepo)
-* [LTG153 - Automate model selection and AI app design with Azure AI Foundry](https://aka.ms/LTG153GHrepo)
 * [LTG154 - Breaking Down the AI Tour Advisor Agent](https://aka.ms/LTG154GHrepo)
 
 #### Workshops
@@ -75,9 +71,7 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 #### Lightning talks
 
 * [LTG155 - Fast Data Transformation with Onelake Shortcut Transforms and Data Wrangler](https://aka.ms/LTG155GHrepo)
-* [LTG156 - Build AI Agents That Actually Know Your Data with Fabric and Foundry](https://aka.ms/LTG156GHrepo)
-* [LTG157 - Build Data Agents Fast: Low-Code to Pro-Code in Microsoft Fabric](https://aka.ms/LTG157GHrepo)
-* [LTG158 - Level up as a data expert with AI-ready databases and tools](https://aka.ms/LTG158GHrepo)
+
 
 ### Migrate and Modernize Your Estate
 
@@ -93,7 +87,6 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 #### Breakout Sessions
 
-* [BRK481 - Securing AI Applications on Azure](https://aka.ms/BRK481GHrepo)
 * [BRK482 - Secure and scale your AI APIs with Azure API Management](https://aka.ms/BRK482GHrepo)
 
 
