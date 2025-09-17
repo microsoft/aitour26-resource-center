@@ -21,7 +21,7 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 #### Workshops
 
-* [WRK523 - Data, Security, and Compliance Practices for Copilot](https://aka.ms/WRK523GHrepo)
+* [WRK523 - Copilot Ready: Strategy, Data, and Security](https://aka.ms/WRK523GHrepo)
 
 ### Innovate with Low Code AI and Agents
 
@@ -31,7 +31,7 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 #### Workshops
 
-* [WRK532 - Building Agents with Copilot Studio](https://aka.ms/WRK532GHrepo)
+* [WRK532 - Building agentic solutions with Copilot Studio](https://aka.ms/WRK532GHrepo)
 
 ## Cloud and AI Platforms 
 
@@ -39,11 +39,11 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 #### Breakout sessions
 
-* [BRK441 - Build & Launch LLM Apps Fast with GitHub Models + Azure AI Foundry](https://aka.ms/BRK441GHrepo)
-* [BRK442 - The Agent Awakens: Collaborative Development with GitHub Copilot](https://aka.ms/BRK442GHrepo)
-* [BRK443 - The Best Way to Make Your Customized Models Smarter Without More Data](https://aka.ms/BRK443GHrepo)
-* [BRK444 - The future of AI Agents starts with search](https://aka.ms/BRK444GHrepo)
-* [BRK445 - Azure AI Foundry Agent Service: Transforming workflows with Azure AI Foundry](https://aka.ms/BRK445GHrepo)
+* [BRK441 - Build and launch AI agents fast with GitHub Models and Azure AI Foundry](https://aka.ms/BRK441GHrepo)
+* [BRK442 - GitHub Copilot as an AI Agent in the Developer Workflow](https://aka.ms/BRK442GHrepo)
+* [BRK443 - Efficient model customization with Azure AI Foundry](https://aka.ms/BRK443GHrepo)
+* [BRK444 - Advanced retrieval for your AI Apps and Agents on Azure](https://aka.ms/BRK444GHrepo)
+* [BRK445 - Building enterprise-ready AI Agents with Azure AI Foundry](https://aka.ms/BRK445GHrepo)
 * [BRK447 - Agentic use of GitHub Copilot within Visual Studio](https://aka.ms/BRK447GHrepo)
 
 #### Lightning talks
@@ -54,7 +54,7 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 #### Workshops
 
-* [WRK540 - Unlock Your Agents' Potential with Model Context Protocol and PostgreSQL](https://aka.ms/WRK540GHrepo)
+* [WRK540 - Unlock your agents’ potential with Model Context Protocol (MCP)](https://aka.ms/WRK540GHrepo)
 * [WRK541 - Real world code migration with GitHub Copilot Agent Mode](https://aka.ms/WRK541GHrepo)
 
 ### Unify Your Data Platform 
@@ -66,28 +66,28 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 #### Workshops
 
-* [WRK560 - Modernize your data estate MS Fabric, Azure Databricks, and AI Foundry](https://aka.ms/WRK560GHrepo)
+* [WRK560 - Modernize your data estate with Fabric, Databricks, and AI Foundry](https://aka.ms/WRK560GHrepo)
 
 #### Lightning talks
 
-* [LTG155 - Fast Data Transformation with Onelake Shortcut Transforms and Data Wrangler](https://aka.ms/LTG155GHrepo)
+* [LTG155 - Fast Data Transformation in Fabric with OneLake and the Data Wrangler](https://aka.ms/LTG155GHrepo)
 
 
 ### Migrate and Modernize Your Estate
 
 #### Breakout Sessions
 
-* [BRK471 - AI for Infrastructure Management](https://aka.ms/BRK471GHrepo)
+* [BRK471 - AI Tools for Infrastructure Management](https://aka.ms/BRK471GHrepo)
 
 #### Workshops
 
-* [WRK570 - Enhancing Operations for AI Apps with Azure Copilot and GitHub Copilot](https://aka.ms/WRK570GHrepo)
+* [WRK570 - Improving Ops with Copilot in Azure and GitHub Copilot](https://aka.ms/WRK570GHrepo)
 
 ## Security 
 
 #### Breakout Sessions
 
-* [BRK482 - Secure and scale your AI APIs with Azure API Management](https://aka.ms/BRK482GHrepo)
+* [BRK482 - Secure, Govern, and Scale Your AI Agents with Azure API Management](https://aka.ms/BRK482GHrepo)
 
 
 
