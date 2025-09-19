@@ -71,7 +71,7 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 #### Lightning talks
 
 * [LTG155 - Fast Data Transformation in Fabric with OneLake and the Data Wrangler](https://aka.ms/LTG155GHrepo)
-
+* [LTG158 - Level up as a data expert with AI-ready databases and tools](https://aka.ms/LTG158GHrepo)
 
 ### Migrate and Modernize Your Estate
 
