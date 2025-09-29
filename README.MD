@@ -49,6 +49,7 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 #### Lightning talks
 
 * [LTG151 - Build trustworthy AI with systematic evaluations in Azure AI Foundry](https://aka.ms/LTG151GHrepo)
+* [LTG153 - Automate model selection with Azure AI Foundry Model Router](https://aka.ms/LTG153GHrepo)
 * [LTG152 - From protocol to practice: build and use your first MCP server](https://aka.ms/LTG152GHrepo)
 * [LTG154 - Breaking Down the AI Tour Advisor Agent](https://aka.ms/LTG154GHrepo)
 
