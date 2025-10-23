@@ -48,6 +48,7 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 #### Lightning talks
 
+* [LTG150 - Microsoft Agent Framework for next-gen multi-agent solution](https://aka.ms/LTG150GHrepo)
 * [LTG151 - Build trustworthy AI with systematic evaluations in Azure AI Foundry](https://aka.ms/LTG151GHrepo)
 * [LTG153 - Automate model selection with Azure AI Foundry Model Router](https://aka.ms/LTG153GHrepo)
 * [LTG152 - From protocol to practice: build and use your first MCP server](https://aka.ms/LTG152GHrepo)
