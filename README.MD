@@ -39,7 +39,7 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 #### Breakout sessions
 
-* [BRK441 - Build and launch AI agents fast with GitHub Models and Azure AI Foundry](https://aka.ms/BRK441GHrepo)
+* [BRK441 - Build and launch AI agents fast with Azure AI Foundry and the AI Toolkit](https://aka.ms/BRK441GHrepo)
 * [BRK442 - GitHub Copilot as an AI Agent in the Developer Workflow](https://aka.ms/BRK442GHrepo)
 * [BRK443 - Efficient model customization with Azure AI Foundry](https://aka.ms/BRK443GHrepo)
 * [BRK444 - Advanced retrieval for your AI Apps and Agents on Azure](https://aka.ms/BRK444GHrepo)
