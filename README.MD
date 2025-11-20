@@ -39,18 +39,18 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 #### Breakout sessions
 
-* [BRK441 - Build and launch AI agents fast with Azure AI Foundry and the AI Toolkit](https://aka.ms/BRK441GHrepo)
+* [BRK441 - Build and launch AI agents fast with Microsoft Foundry and the AI Toolkit](https://aka.ms/BRK441GHrepo)
 * [BRK442 - GitHub Copilot as an AI Agent in the Developer Workflow](https://aka.ms/BRK442GHrepo)
-* [BRK443 - Efficient model customization with Azure AI Foundry](https://aka.ms/BRK443GHrepo)
+* [BRK443 - Efficient model customization with Microsoft Foundry](https://aka.ms/BRK443GHrepo)
 * [BRK444 - Advanced retrieval for your AI Apps and Agents on Azure](https://aka.ms/BRK444GHrepo)
-* [BRK445 - Building enterprise-ready AI Agents with Azure AI Foundry](https://aka.ms/BRK445GHrepo)
+* [BRK445 - Building enterprise-ready AI Agents with Microsoft Foundry](https://aka.ms/BRK445GHrepo)
 * [BRK447 - Agentic use of GitHub Copilot within Visual Studio](https://aka.ms/BRK447GHrepo)
 
 #### Lightning talks
 
 * [LTG150 - Microsoft Agent Framework for next-gen multi-agent solution](https://aka.ms/LTG150GHrepo)
-* [LTG151 - Build trustworthy AI with systematic evaluations in Azure AI Foundry](https://aka.ms/LTG151GHrepo)
-* [LTG153 - Automate model selection with Azure AI Foundry Model Router](https://aka.ms/LTG153GHrepo)
+* [LTG151 - Build trustworthy AI with systematic evaluations in Microsoft Foundry](https://aka.ms/LTG151GHrepo)
+* [LTG153 - Automate model selection with Microsoft Foundry Model Router](https://aka.ms/LTG153GHrepo)
 * [LTG152 - From protocol to practice: build and use your first MCP server](https://aka.ms/LTG152GHrepo)
 * [LTG154 - Breaking Down the AI Tour Advisor Agent](https://aka.ms/LTG154GHrepo)
 
@@ -68,7 +68,7 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 #### Workshops
 
-* [WRK560 - Modernize your data estate with Fabric, Databricks, and AI Foundry](https://aka.ms/WRK560GHrepo)
+* [WRK560 - Modernize your data estate with Fabric, Databricks, and Microsoft Foundry](https://aka.ms/WRK560GHrepo)
 
 #### Lightning talks
 
