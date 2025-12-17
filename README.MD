@@ -58,6 +58,7 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 * [WRK540 - Unlock your agents’ potential with Model Context Protocol (MCP)](https://aka.ms/WRK540GHrepo)
 * [WRK541 - Real world code migration with GitHub Copilot Agent Mode](https://aka.ms/WRK541GHrepo)
+* [WRK542 - Prototype Agents with the AI Toolkit and Model Context Protocol (MCP)](https://aka.ms/WRK542GHrepo)
 
 ### Unify Your Data Platform 
 
