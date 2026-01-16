@@ -50,9 +50,10 @@ Recordings, code and demos from all technical sessions from AI Tour are availabl
 
 * [LTG150 - Microsoft Agent Framework for next-gen multi-agent solution](https://aka.ms/LTG150GHrepo)
 * [LTG151 - Build trustworthy AI with systematic evaluations in Microsoft Foundry](https://aka.ms/LTG151GHrepo)
-* [LTG153 - Automate model selection with Microsoft Foundry Model Router](https://aka.ms/LTG153GHrepo)
 * [LTG152 - From protocol to practice: build and use your first MCP server](https://aka.ms/LTG152GHrepo)
+* [LTG153 - Automate model selection with Microsoft Foundry Model Router](https://aka.ms/LTG153GHrepo)
 * [LTG154 - Breaking Down the AI Tour Advisor Agent](https://aka.ms/LTG154GHrepo)
+* [LTG156 - Safeguard Agentic AI Solutions With AI Red Teaming Agent](https://aka.ms/LTG156GHrepo)
 
 #### Workshops
 
